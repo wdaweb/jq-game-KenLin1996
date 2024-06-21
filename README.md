@@ -35,9 +35,11 @@
 ## 參考資源
 
 - 特別感謝 Chris Courses 的 JavaScript Fighting Game Tutorial 影片：
+
   [https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12882s](https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12882s)
 
 - 特別感謝 Oak Woods 提供的素材：
+
   [https://brullov.itch.io/oak-woods](https://brullov.itch.io/oak-woods)
 
 - Fighter Asset #1: [https://luizmelo.itch.io/martial-hero](https://luizmelo.itch.io/martial-hero)
